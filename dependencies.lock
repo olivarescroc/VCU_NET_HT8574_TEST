@@ -1,0 +1,21 @@
+dependencies:
+  espressif/esp_io_expander:
+    component_hash: fbc0de4082fc7c207dc98a93a0ed83d1a929a4ecee83cc567afb406f3ee6d4a6
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.1
+  espressif/esp_io_expander_ht8574:
+    component_hash: 780910726a608a52a0b09b94fc860c2f72e2a200738a48b6e153942b48d80cdf
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 2.0.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.4.0
+manifest_hash: a37731128ce461b929831e151dcca5dec319f07ab6bcf5b94170b139a3f09040
+target: esp32
+version: 1.0.0
